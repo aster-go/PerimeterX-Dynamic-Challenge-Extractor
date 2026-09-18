@@ -96,14 +96,3 @@ node main.js <script file path, default script.js>
 ```
 
 You can find in [script.js](./script.js) a sample perimeterX script that you can use to test the extractor (v8.7.2).
-
-## Connect
-
-This project is a quick and nimble solution crafted out of necessity. For more insights, follow my journey and connect with me on social platforms:
-
-- GitHub: [@glizzykingdreko](https://github.com/glizzykingdreko)
-- Medium: [@glizzykingdreko](https://medium.com/@glizzykingdreko)
-- CodePen: [@glizzykingdreko](https://codepen.io/glizzykingdreko)
-- Twitter: [@glizzykingdreko](https://twitter.com/glizzykingdreko)
-
-For direct communication, shoot an email to [glizzykingdreko@protonmail.com](mailto:glizzykingdreko@protonmail.com).
